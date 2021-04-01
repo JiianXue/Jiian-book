@@ -1,0 +1,23 @@
+{
+  "name": "Jiian-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiianXue/Jiian-book.git"
+  },
+  "keywords": [],
+  "author": "JiianXue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiianXue/Jiian-book/issues"
+  },
+  "homepage": "https://github.com/JiianXue/Jiian-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
